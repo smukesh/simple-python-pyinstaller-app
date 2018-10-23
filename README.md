@@ -1,5 +1,5 @@
 # simple-python-pyinstaller-app
-# inside app1 branch
+# inside app1 branch ---app-test
 
 This repository is for the
 [Build a Python app with PyInstaller](https://jenkins.io/doc/tutorials/build-a-python-app-with-pyinstaller/)
